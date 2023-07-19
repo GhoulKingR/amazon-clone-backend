@@ -33,3 +33,4 @@ app.post("/payments/create", async (req, res) => {
 });
 
 // Listen command
+module.exports = app;
